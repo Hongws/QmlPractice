@@ -1,0 +1,3 @@
+Window和Item的选择
+
+qmlscene命令
