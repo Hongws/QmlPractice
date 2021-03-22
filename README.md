@@ -3,8 +3,8 @@ qml作用
 比Qwidget的界面更美观、更又立体感(动画、模型和视图、粒子效果和着色效果)  
 Qt公司目前重心在qml上，qt6的版本中qml变动不少  
 
+Questions:  
 2020中旬  
-qml遇见的问题  
 用qwidget中QWebEngineView加载的网页，发布没问题，但只能加载一级网页，加载二级的话是计算机内存叠加...直到内存爆了  
 在win10下，用qml中QtWebEngine加载网页，发布出现网页模块加载不了，但release下内存会自动释放  
 针对此问题测试过  
